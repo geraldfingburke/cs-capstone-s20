@@ -199,7 +199,9 @@ in a more specific way so we're not taking a shotgun approach every time we grab
 bit of tech debt. Sarah set up the get_courses statement and I worked so hard to just use the one she wrote, that it
 took me longer to get the same functionality I would have if I'd just written a bespoke statement for my task.
 
-### Features: You'll see this commented out at the bottom of the cards, but we never got the chance to get pagination
+### Features: 
+
+You'll see this commented out at the bottom of the cards, but we never got the chance to get pagination
 working. This will only really become a problem if we start to have a lot of courses or, more likely, topics.
 
 We don't have a reliable system for password recovery at the moment. If no one can get logged into the admin portal
