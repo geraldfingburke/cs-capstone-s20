@@ -1,3 +1,4 @@
+```
       ___           ___           ___           ___
      /  /\         /  /\         /  /\         /  /\
     /  /:/        /  /:/_       /  /:/        /  /::\
@@ -10,6 +11,7 @@
     \  \::/        /__/:/       \  \::/       \  \:\
      \__\/         \__\/         \__\/         \__\/
 ****Developed by the Spring 2020 Programming Capstone Class****
+```
 
 1. Project Background:
    We had a bit of an uphill battle with this one. The Covid-19 pandemic hit the week we were set to start. All of the
