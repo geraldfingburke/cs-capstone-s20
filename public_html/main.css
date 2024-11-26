@@ -1,0 +1,10 @@
+/* This changes the color of any link to white, if you put the following in the <a> tag:
+	<a class="header-link" ...
+ */
+.header-link {
+  color: white;
+}
+
+.footer-link {
+  color: white;
+}
